@@ -1,0 +1,13 @@
+{
+    "description": "Сайт с рейтингом ювелирных салонов Вьетнама для туристов",
+    "domain": "is-local.org",
+    "subdomain": "jewelry",
+    "owner": {
+        "repo": "https://github.com/Danil3465/jewelry-parser",
+        "email": "daniljk09@gmail.com"
+    },
+    "record": {
+        "CNAME": "ubiquitous-hotteok-aa800c.netlify.app"
+    },
+    "proxied": true
+}
