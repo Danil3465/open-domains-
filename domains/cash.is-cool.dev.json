@@ -1,0 +1,13 @@
+{
+    "description": "Рейтинг ювелирных салонов Вьетнама. Туристический гид по обмену валют и украшениям.",
+    "domain": "is-cool.dev",
+    "subdomain": "cash",
+    "owner": {
+        "repo": "https://github.com/Danil3465/jewelry-parser",
+        "email": "daniljk09@gmail.com"
+    },
+    "record": {
+        "CNAME": "ubiquitous-hotteok-aa800c.netlify.app"
+    },
+    "proxied": true
+}
